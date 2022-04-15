@@ -1,7 +1,7 @@
 # ***Cryptocurrencies***
 
 ## ***Purpose:***
-This module will instruct how: 
+This module will instruct how to: 
 - Describe the differences between supervised and unsupervised learning, including real-world examples of each.
 - Preprocess data for unsupervised learning.
 - Cluster data using the K-means algorithm.
